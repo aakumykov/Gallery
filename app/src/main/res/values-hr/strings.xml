@@ -271,4 +271,5 @@
     <string name="on_video_tap">Pri dodiru videa</string>
     <string name="open_in_app_player">Otvori player u aplikaciji</string>
     <string name="open_system_default_player">Otvori standardnu aplikaciju playera</string>
+    <string name="sliding_animation_type">Animacija promjene slike</string>
 </resources>

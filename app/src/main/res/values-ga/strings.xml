@@ -271,4 +271,5 @@
     <string name="on_video_tap">Ar sconna físe</string>
     <string name="open_in_app_player">Oscail an seinnteoir san aip</string>
     <string name="open_system_default_player">Oscail an aip seinnteora réamhshocraithe</string>
+    <string name="sliding_animation_type">Beochan athraithe íomhá</string>
 </resources>

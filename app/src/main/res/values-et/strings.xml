@@ -269,4 +269,5 @@
     <string name="on_video_tap">Video klõpsamisel</string>
     <string name="open_in_app_player">Ava rakendusesisene meediaesitaja</string>
     <string name="open_system_default_player">Ava vaikimisi meediaesitaja</string>
+    <string name="sliding_animation_type">Pildi vahetuse animatsioon</string>
 </resources>

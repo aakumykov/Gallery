@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_launcher_name">Галерија</string>
+    <string name="sliding_animation_type">Анимација за промена на слика</string>
 </resources>

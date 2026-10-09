@@ -271,4 +271,5 @@
     <string name="on_video_tap">En tocar el vídeo</string>
     <string name="open_in_app_player">Obre en el reproductor de l\'aplicació</string>
     <string name="open_system_default_player">Obre l\'aplicació de reproducció predeterminada</string>
+    <string name="sliding_animation_type">Animació de canvi d\'imatge</string>
 </resources>

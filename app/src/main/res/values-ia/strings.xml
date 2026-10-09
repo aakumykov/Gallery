@@ -13,4 +13,5 @@
     <string name="show_all">Monstrar le contento de tote le dossieres</string>
     <string name="images">Imagines</string>
     <string name="videos">Videos</string>
+    <string name="sliding_animation_type">Animation de cambio de imagine</string>
 </resources>

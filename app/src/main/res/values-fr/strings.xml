@@ -269,4 +269,5 @@
     <string name="open_system_default_player">Ouvrir l\'application du lecteur par défaut</string>
     <string name="on_video_tap">Lecture de la vidéo</string>
     <string name="open_in_app_player">Ouvrir le lecteur intégrer</string>
+    <string name="sliding_animation_type">Animation de changement d\'image</string>
 </resources>

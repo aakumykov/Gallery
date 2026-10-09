@@ -269,4 +269,5 @@
     <string name="open_in_app_player">Ireki aplikazioaren erreproduzigailuan</string>
     <string name="open_system_default_player">Ireki lehenetsitako erreproduzigailuan</string>
     <string name="video_no_sound">Bideo honek ez dauka audiorik</string>
+    <string name="sliding_animation_type">Irudi-aldaketa animazioa</string>
 </resources>

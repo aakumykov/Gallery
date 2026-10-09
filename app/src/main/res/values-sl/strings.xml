@@ -253,4 +253,5 @@
     <string name="slide">Diapozitiv</string>
     <string name="faq_5_text">Funkcija Izključi prepreči prikaz mape samo v galeriji Fossify, medtem ko funkcija Skrij deluje sistemsko in skrije mapo tudi iz drugih galerij. Deluje tako, da v dani mapi ustvari prazno datoteko \".nomedia\", ki jo lahko nato odstranite tudi s katerim koli upraviteljem datotek. Upoštevajte, da nekatere naprave ne omogočajo skrivanja map, kot so Kamera, Posnetki zaslona in Prenosi.</string>
     <string name="exclude_folder_description">Izbrano skupaj z njenimi podmapami boste izključili samo iz Galerije Fossify. Izključene mape lahko upravljate v nastavitvah.</string>
+    <string name="sliding_animation_type">Animacija menjave slike</string>
 </resources>

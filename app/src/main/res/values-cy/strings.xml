@@ -177,4 +177,5 @@
     <string name="allow_down_gesture">Caniatáu cau\'r olyg sgrin lawn gydag ystum i lawr</string>
     <string name="avoid_showing_invalid_files">Osgoi dangos ffeiliau annilys</string>
     <string name="show_file_count_line">Dangos nifer y ffeiliau ar ei linell ei hunan</string>
+    <string name="sliding_animation_type">Animeiddio newid delwedd</string>
 </resources>

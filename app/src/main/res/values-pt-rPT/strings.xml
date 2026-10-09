@@ -266,4 +266,5 @@
     </plurals>
     <string name="overwrite_original">Sobrescrever original</string>
     <string name="keep_screen_on_fullscreen_photos">Mantenha o ecrã ligado enquanto visualiza fotos em ecrã inteiro</string>
+    <string name="sliding_animation_type">Animação de mudança de imagem</string>
 </resources>

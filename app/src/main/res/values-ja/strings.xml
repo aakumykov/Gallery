@@ -248,4 +248,5 @@
         <item quantity="other">本当に %d ファイルを復元しますか?</item>
     </plurals>
     <string name="overwrite_original">元のファイルを上書きする</string>
+    <string name="sliding_animation_type">画像切り替えアニメーション</string>
 </resources>

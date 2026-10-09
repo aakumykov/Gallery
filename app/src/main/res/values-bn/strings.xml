@@ -120,4 +120,5 @@
     <string name="fullscreen_media">পুরো স্ক্রিনের মিডিয়া</string>
     <string name="extended_details">বর্ধিত বিশদ</string>
     <string name="bottom_actions">নিচের অংশের ক্রিয়াগুলো</string>
+    <string name="sliding_animation_type">ছবি পরিবর্তনের অ্যানিমেশন</string>
 </resources>

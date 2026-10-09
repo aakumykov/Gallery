@@ -242,4 +242,5 @@
         <item quantity="few">Неуспешна промена величине %d слике</item>
         <item quantity="other">Неуспешна промена величине %d слика</item>
     </plurals>
+    <string name="sliding_animation_type">Анимација промене слике</string>
 </resources>

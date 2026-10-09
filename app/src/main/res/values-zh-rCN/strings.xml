@@ -267,4 +267,5 @@
     <string name="open_in_app_player">打开应用内播放器</string>
     <string name="open_system_default_player">打开默认播放器应用</string>
     <string name="on_video_tap">点按视频时</string>
+    <string name="sliding_animation_type">图片切换动画</string>
 </resources>

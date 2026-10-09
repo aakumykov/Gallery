@@ -263,4 +263,5 @@
     <string name="open_in_app_player">Åbn indbygget afspiller</string>
     <string name="open_system_default_player">Åbn standard-afspiller</string>
     <string name="video_no_sound">Denne video har ingen lyd</string>
+    <string name="sliding_animation_type">Animation ved billedskift</string>
 </resources>

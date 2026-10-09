@@ -7,4 +7,5 @@
     <string name="pin_folder">Pin qovluğu</string>
     <string name="unpin_folder">Unpin qovluğu</string>
     <string name="toggle_favorite">Sevimlini göstər/gizlət</string>
+    <string name="sliding_animation_type">Şəkil dəyişdirmə animasiyası</string>
 </resources>

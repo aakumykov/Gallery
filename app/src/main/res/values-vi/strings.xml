@@ -263,4 +263,5 @@
     <string name="on_video_tap">Khi nhấn vào video</string>
     <string name="open_in_app_player">Mở bằng trình phát của ứng dụng</string>
     <string name="open_system_default_player">Mở bằng trình phát của thiết bị</string>
+    <string name="sliding_animation_type">Hoạt ảnh thay đổi hình ảnh</string>
 </resources>

@@ -265,4 +265,5 @@
     <string name="on_video_tap">Al frapeto sur filmeto</string>
     <string name="open_in_app_player">Malfermi legilon de Galerio</string>
     <string name="open_system_default_player">Malfermi defaŭltan legilan aplikaĵon</string>
+    <string name="sliding_animation_type">Animacio de ŝanĝo de bildo</string>
 </resources>

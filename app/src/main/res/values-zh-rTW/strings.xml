@@ -265,4 +265,5 @@
     <string name="on_video_tap">輕點影片</string>
     <string name="open_in_app_player">開啟應用程式內播放程式</string>
     <string name="open_system_default_player">開啟預設播放器應用程式</string>
+    <string name="sliding_animation_type">圖片切換動畫</string>
 </resources>

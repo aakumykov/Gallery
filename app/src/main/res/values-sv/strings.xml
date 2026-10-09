@@ -267,4 +267,5 @@
     <string name="open_in_app_player">Öppna spelaren i appen</string>
     <string name="open_system_default_player">Öppna standardspelaren</string>
     <string name="video_no_sound">Videon har inget ljud</string>
+    <string name="sliding_animation_type">Animation för bildbyte</string>
 </resources>

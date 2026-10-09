@@ -265,4 +265,5 @@
     <string name="open_system_default_player">Standard-Player-App öffnen</string>
     <string name="open_in_app_player">In-App-Player öffnen</string>
     <string name="on_video_tap">Beim Tippen aufs Video</string>
+    <string name="sliding_animation_type">Bildwechsel-Animation</string>
 </resources>

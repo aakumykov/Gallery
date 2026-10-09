@@ -273,4 +273,5 @@
     <string name="on_video_tap">Przy naciśnięciu wideo</string>
     <string name="open_in_app_player">Otwórz wbudowany odtwarzacz</string>
     <string name="open_system_default_player">Otwórz domyślną aplikację odtwarzacza</string>
+    <string name="sliding_animation_type">Animacja zmiany obrazu</string>
 </resources>

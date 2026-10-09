@@ -265,4 +265,5 @@
     <string name="on_video_tap">При докосване на видео</string>
     <string name="open_in_app_player">Отваряне на вградено изпълняване на видео</string>
     <string name="open_system_default_player">Отваряне на подразбирано възпроизвеждане на видео</string>
+    <string name="sliding_animation_type">Анимация при смяна на изображението</string>
 </resources>

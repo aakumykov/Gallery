@@ -271,4 +271,5 @@
     <string name="open_system_default_player">Apri app lettore predefinita</string>
     <string name="video_no_sound">Questo video non ha audio</string>
     <string name="on_video_tap">Al tocco del video</string>
+    <string name="sliding_animation_type">Animazione di cambio immagine</string>
 </resources>

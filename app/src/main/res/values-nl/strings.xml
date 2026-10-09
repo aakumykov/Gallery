@@ -269,4 +269,5 @@
     <string name="on_video_tap">Bij klik op video</string>
     <string name="open_in_app_player">Openen in interne speler</string>
     <string name="open_system_default_player">Openen met standaard-app</string>
+    <string name="sliding_animation_type">Animatie voor wisselen van afbeelding</string>
 </resources>

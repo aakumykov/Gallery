@@ -267,4 +267,5 @@
     <string name="open_in_app_player">פתח נגן פנימי</string>
     <string name="open_system_default_player">פתח נגן ברירת מחדל</string>
     <string name="video_no_sound">לוידאו זה אין קול</string>
+    <string name="sliding_animation_type">אנימציית מעבר תמונה</string>
 </resources>

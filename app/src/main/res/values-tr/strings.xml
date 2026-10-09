@@ -269,4 +269,5 @@
     <string name="on_video_tap">Videoya dokunulduğunda</string>
     <string name="open_in_app_player">Dahili oynatıcıyı aç</string>
     <string name="open_system_default_player">Varsayılan oynatma uygulamasını aç</string>
+    <string name="sliding_animation_type">Resim değiştirme animasyonu</string>
 </resources>
