@@ -157,8 +157,8 @@
     <string name="screen_rotation_aspect_ratio">По размеру изображения</string>
 
     <string name="sliding_animation_type">Анимация листания</string>
-    <string name="sliding_animation_type_slide">Сдвиг</string>
-    <string name="sliding_animation_type_fade">Затухание</string>
+    <string name="sliding_animation_type_slide">@string/slide</string>
+    <string name="sliding_animation_type_fade">@string/fade</string>
 
     <string name="black_background_at_fullscreen">Чёрные фон и строка состояния при просмотре изображения</string>
     <string name="scroll_thumbnails_horizontally">Прокрутка миниатюр по горизонтали</string>
